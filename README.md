@@ -1,11 +1,11 @@
 # Java Console Project - SSangYong Bank
-JAVA를 기반으로 사용자에게 적합한 금융 상품을 추천하는 콘솔 프로젝트 입니다.
+JAVA를 기반으로 사용자에게 적합한 금융 상품을 추천하는 콘솔 프로젝트 입니다.  
 <br/>
 
 ## 🖥 프로젝트 소개
 적금, 대출, 카드 상품과 상세정보를 조회하고, 자신에게 맞는 상품을 추천 받을 수 있는 프로그램.
 
-고객의 상황을 고려해 그에 맞는 금융상품을 추천하여 서비스를 이용하는 고객 편의 향상에 목표
+고객의 상황을 고려해 그에 맞는 금융상품을 추천하여 서비스를 이용하는 고객 편의 향상에 목표  
 <br/>
 
 
@@ -19,16 +19,18 @@ JAVA를 기반으로 사용자에게 적합한 금융 상품을 추천하는 콘
  - 김경민: 관리자/고객의 카드 조회, 추가, 추천, 제거 서비스 구현  
  - 최영진: 관리자의 대출 추가/제거, 전월세/반환보증 대출 추천, 자동차대출 추천, 대출 계산기 서비스 구현
  - 이동재: 프로그램 초기화면, 관리자/고객의 로그인 및 회원가입, 관리자/고객의 메인화면 구현
+<br/>
   
   
 ## ⚙ 개발 환경
 * `Java 8`
 * `JDK 11.0.1`
-- **IDE** : Eclipse(2021-03 R)
+- **IDE** : Eclipse(2021-03 R)  
 <br/>
   
 ### ✔️Back-end
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">  
+<br/>
 
 ### 📌 주요 기능  
 
